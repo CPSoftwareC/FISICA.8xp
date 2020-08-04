@@ -6,7 +6,7 @@
 <p>Divido em 3 partes:</p><ol> 
 <li>Forças</li>
 <li>Eletricidade</li>
-<li>Térmico e Radiaço</li>
+<li>Térmico e Radiação</li>
 </ol>
 
 <h3>Como instalar</h3>
